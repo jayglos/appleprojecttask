@@ -1,0 +1,180 @@
+*{
+  margin: 0;
+  padding: 0;
+box-sizing: border-box;
+
+}
+#title{
+  background-color: none;
+}
+
+#closing{
+  margin: 0;
+  border: 0;
+}
+
+#recent{
+  background-color: #000;
+  padding-top: 40px;
+}
+
+.w-100{
+  height: 100%;
+}
+
+.row{
+  width: 100%;
+}
+
+.gloria{
+  text-align: center;
+}
+.iphone
+{
+
+padding-top: 3px;
+width: 100%;
+max-width: 60rem;
+
+}
+
+  .container-fluid{
+    padding: 3% 15%;
+}
+
+.recentimage{
+  padding-top: 20px;
+    width:100%;
+max-width: 55rem;
+
+}
+.container-fluid{
+  padding: 0 1%;
+
+}
+
+.navbar-nav > li {
+height: 30px;
+width: 100%;
+line-height:25px;
+display: flex;
+
+font-size: 20px;
+
+
+
+}
+.Ultra{
+width: 100%;
+position: relative;
+top: 10px;
+
+font-size: 40px;
+}
+
+.macbookair{
+
+position: relative;
+top: 80px;
+  width: 100%;
+font-size: 40px;
+}
+.Apple{
+  position: relative;
+  top: 10px;
+  width: 100%;
+
+  font-size: 40px;
+}
+.card{
+position: relative;
+text-align: center;
+top: 80px;
+font-size: 40px;
+width: 100%;
+}
+.two{
+  color: #fff;
+}
+
+h1{
+
+width: 100%;
+text-align: center;
+padding-top: 20px;
+font-size: 55px;
+
+}
+
+
+
+h2{
+width: 100%;
+font-weight: normal;
+text-align: center;
+font-size: 30px;
+
+}
+h3{
+text-align: center;
+width: 100%;
+font-size: 20px;
+color: #1363DF;
+}
+
+
+.nav-link{
+  color: #000;
+text-align: center;
+font-size: 80%;
+width: 100%;
+}
+
+
+
+.carousel-item{
+  height:600px;
+
+}
+
+.next{
+width:70%;
+padding-top: 50px;
+max-width: 30rem;
+margin: 0  15%;
+}
+.next4{
+
+  width: 50%;
+  margin: 32%  23%;
+  max-width: 25rem;
+
+  }
+  .next2{
+    width: 70%;
+    margin: 0  15%;
+    max-width: 30rem;
+    }
+
+
+
+@media screen and (min-width : 576px) {
+.iphone{
+
+}
+}
+@media screen and (min-width : 768px) {
+.iphone{
+
+}
+}
+@media screen and (min-width : 992px) {
+body{
+
+}
+}
+@media screen and (min-width : 1200px) {
+body{
+
+}
+}
